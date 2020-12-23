@@ -9,7 +9,7 @@ To view the review of the proposal, you can view the [Udacity review](https://re
 For details on the project solution, see the [report.pdf](https://github.com/bschwarz/udacity-machine-learning-capstone/blob/master/report.pdf) file.
 
 ## Notebooks
-You can view the [notebook](https://github.com/bschwarz/udacity-machine-learning-capstone/blob/master/dog_app.ipynb) or the [pdf](https://github.com/bschwarz/udacity-machine-learning-capstone/blob/master/dog_app.pdf) copy of the notebook for details on the implementation.
+You can view the [notebook](https://github.com/bschwarz/udacity-machine-learning-capstone/blob/master/dog_app.ipynb), in [html](https://github.com/bschwarz/udacity-machine-learning-capstone/blob/master/dog_app.html) format or the [pdf](https://github.com/bschwarz/udacity-machine-learning-capstone/blob/master/dog_app.pdf) copy of the notebook for details on the implementation.
 
 ## Datasets
 The datasets are provided by Udacity. Instead of replicating those datasets in this repo, you can download those datasets from the links provided by Udacity for the [dog images](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and the [human images](http://vis-www.cs.umass.edu/lfw/lfw.tgz). A break down of the datasets is as follows:
